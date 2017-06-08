@@ -8,3 +8,5 @@ let f = function(x) {
 };
 
 module.exports = f;
+
+// another string from remote
