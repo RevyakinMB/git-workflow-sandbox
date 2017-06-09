@@ -1,10 +1,10 @@
 {
 	let x = 2;
-	console.log(x+1);
+	console.log(x+2);
 }
 
 let f = function(x) {
-	return x + 1;
+	return x + 3;
 };
 
 module.exports = f;
