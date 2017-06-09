@@ -4,7 +4,7 @@
 }
 
 let f = function(x) {
-	return x + 2;
+	return x + 3;
 };
 
 module.exports = f;
