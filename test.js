@@ -1,6 +1,6 @@
 {
 	let x = 1;
-	console.log(x+1);
+	console.log(x+2);
 }
 
 let f = function(x) {
